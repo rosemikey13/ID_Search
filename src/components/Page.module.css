@@ -1,0 +1,18 @@
+.page__main {
+    height: 40em;
+    width: 70em;
+    background-color: #203239;
+    border-radius: .75em;
+    margin-top: 10rem;
+    box-shadow: 0px 1px 30px #2a414b;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+p{
+    font-weight: 900;
+    font-size: xx-large;
+    
+}
