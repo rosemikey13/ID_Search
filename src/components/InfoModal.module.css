@@ -1,0 +1,15 @@
+.header,.footer {
+background-color: #283f48dd;
+
+}
+
+ .body{
+background-color: #283f48a4;
+
+}
+
+.p {
+    text-align: right;
+    font-weight: 500;
+    font-size: medium;
+}

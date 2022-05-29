@@ -7,8 +7,8 @@ const Page = (props) => {
     return(
 
         <div className={styles.page__main}>
-            <p>WHO WE DELETIN' ?</p>
-            <SearchBar/>
+            <p>ID Select</p>
+            <SearchBar checkRecords={props.checkRecords}/>
         </div>
         
 
